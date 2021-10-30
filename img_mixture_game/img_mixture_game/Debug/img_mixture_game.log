@@ -1,0 +1,159 @@
+﻿  mixture_handler.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.h(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(110): warning C4244: инициализация: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(111): warning C4244: инициализация: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(259): warning C4244: =: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(607): warning C4244: инициализация: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(608): warning C4244: инициализация: преобразование "long double" в "unsigned int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(591): warning C4101: r: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(829): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(827): warning C4101: r: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(876): warning C4101: i_step: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(876): warning C4101: i_lim: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1122): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1131): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1136): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1142): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1203): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1244): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1284): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1292): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1348): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1367): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1095): warning C4101: i_step: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1095): warning C4101: i_lim: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1090): warning C4101: r: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1172): warning C4101: psumm: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1406): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1445): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1463): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1474): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1570): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1836): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1860): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1460): warning C4101: psumm1: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1460): warning C4101: val1: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1399): warning C4101: i_step: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1399): warning C4101: i_lim: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1394): warning C4101: r: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1534): warning C4101: psumm: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1893): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1932): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1950): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1961): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2063): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2325): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2348): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1947): warning C4101: psumm1: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1947): warning C4101: val1: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1886): warning C4101: i_step: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1886): warning C4101: i_lim: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(1881): warning C4101: r: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2022): warning C4101: psumm: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2384): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2572): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2423): warning C4101: middle: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2658): warning C4101: middle: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(2837): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3031): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3053): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3201): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3225): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3227): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3280): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3282): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3300): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3307): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3335): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3268): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3365): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3367): warning C4101: buf_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3367): warning C4101: F_n_curr: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3365): warning C4101: k: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3367): warning C4101: max_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3363): warning C4101: j: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3363): warning C4101: i: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3434): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3443): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3475): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3402): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3546): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3551): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3552): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3558): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3564): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3565): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3569): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3570): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3603): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3649): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3659): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3665): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3734): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3736): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3788): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3790): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3808): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3815): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3843): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3776): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3873): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3875): warning C4101: buf_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3875): warning C4101: F_n_curr: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3873): warning C4101: k: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3875): warning C4101: max_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3871): warning C4101: j: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3871): warning C4101: i: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3951): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3964): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4002): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3910): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4073): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4078): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4079): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4085): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4091): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4092): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4096): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4097): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4176): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4186): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4192): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4250): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4266): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4287): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4221): warning C4101: last_elem: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4212): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4212): warning C4101: k: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4214): warning C4101: max_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4332): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4336): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4358): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4326): warning C4101: last_elem: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4317): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4317): warning C4101: k: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4319): warning C4101: max_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4398): warning C4101: last_elem: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4389): warning C4101: buf_intervals_amount: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4389): warning C4101: k: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4391): warning C4101: max_d_n: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3730): warning C4101: k: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(3730): warning C4101: j: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4512): warning C4101: f_i_j: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4547): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4548): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4570): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4576): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4577): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4568): warning C4101: y_len: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4568): warning C4101: x_len: неиспользованная локальная переменная
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4924): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4928): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4944): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4950): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(4970): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\anastasya\source\repos\img_mixture_game\img_mixture_game\mixture_handler.cpp(5037): warning C4018: <: несоответствие типов со знаком и без знака
+  img_mixture_game.vcxproj -> C:\Users\anastasya\source\repos\img_mixture_game\Debug\img_mixture_game.exe
